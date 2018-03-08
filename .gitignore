@@ -97,3 +97,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+credit_card_fraud_detection_ml/creditcard.csv
